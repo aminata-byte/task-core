@@ -15,7 +15,7 @@
     <!-- Identité de notre module -->
     <groupId>sn.isi.l3gl.core</groupId>   <!-- nom du groupe/organisation -->
     <artifactId>task-core</artifactId>     <!-- nom du module -->
-    <version>0.0.1-SNAPSHOT</version>     <!-- version actuelle (évoluera) -->
+    <version>0.1.0-SNAPSHOT</version>     <!-- version actuelle (évoluera) -->
     <name>task-core</name>
 
     <!-- Version Java utilisée -->
